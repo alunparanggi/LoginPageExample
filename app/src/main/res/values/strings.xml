@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login Page Example</string>
+    <string name="text_login_facebook">Facebook Login</string>
+    <string name="text_login_gmail">Gmail Login</string>
+    <string name="text_login">Login</string>
+    <string name="text_hint_password">Password</string>
+    <string name="text_hint_username">Username</string>
+    <string name="text_error_empty_username">Username should be filled!</string>
+    <string name="text_error_empty_password">Password should be filled!</string>
+    <string name="text_gmail_login_success">Gmail Login Success!</string>
+    <string name="text_fb_login_success">Facebook Login Success!</string>
+    <string name="text_login_success">Login Success!</string>
+    <string name="text_menu_logout">Logout</string>
+    <string name="text_actionbar_homepage">Home Page</string>
+    <string name="text_logout_success">Logout Success</string>
+</resources>
